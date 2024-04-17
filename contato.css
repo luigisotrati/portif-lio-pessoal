@@ -1,0 +1,14 @@
+body{
+    background-color: #F2E4D8;
+    color:#403732 ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+A{
+    color: #8C623E;
+
+
+}
+ nav > a:hover{
+    background-color: beige;
+}

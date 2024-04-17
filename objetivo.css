@@ -1,0 +1,15 @@
+body{
+    background-color: #F2E4D8;
+    color: #403732;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a{
+   color: #8C623E;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+H1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav > a:hover {
+    background-color: beige;
+}
